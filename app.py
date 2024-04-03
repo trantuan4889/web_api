@@ -6,11 +6,11 @@ app = Flask(__name__)
 
 # Thông tin kết nối đến cơ sở dữ liệu MySQL
 db_config = {
-    'host': 'home.hoian.one',
-    'user': 'psse',
-    'password': 'tuan1234',
-    'database': 'psse',
-    'port': 3307
+    'host': '',
+    'user': '',
+    'password': '',
+    'database': '',
+    'port': 
 }
 
 def convert_unicode_to_string(s):
